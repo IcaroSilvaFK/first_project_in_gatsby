@@ -1,0 +1,15 @@
+.container__header {
+  display: flex;
+  padding: 50px 10px;
+
+  color: #8257e6;
+
+  flex-direction: column;
+  .header__content {
+    max-width: 500px;
+
+    padding: 10px;
+
+    font-weight: 500;
+  }
+}
